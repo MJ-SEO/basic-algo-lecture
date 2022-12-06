@@ -1,6 +1,6 @@
 // Authored by : audwns27
 // Co-authored by : -
-// http://boj.kr/786d00d372ac47c8807c9c49e9e8bca7
+// http://boj.kr/98366a185d61404fad10370129a29c0f
 
 #include <bits/stdc++.h>
 
